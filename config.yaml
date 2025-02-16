@@ -1,0 +1,5 @@
+train:
+  epochs: 50
+  batch_size: 16
+  learning_rate: 0.001
+  model_type: "keras"  # Options: keras, pytorch
